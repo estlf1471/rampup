@@ -1,0 +1,99 @@
+
+		body{
+			background-image:url("images/tree-on-a-moonlight-twitter-background.jpg") ;
+
+			
+			background-repeat: no-repeat;
+			background-attachment:fixed;
+		}
+
+		h1 {
+			color: #fff;
+			font-family:apple chancery;
+			font-size:48;
+			padding-left:650px;
+			text-shadow: 0 2px 1px;
+		}
+		h2 {
+			color: #fff;
+			font-family:apple chancery;
+			font-size: 36;
+			padding-left: 650px;
+			text-shadow:0 2px 1px;
+		}
+		blockquote{
+			color: #fff;
+			font-family:apple Chancery;
+			font-size: 130%;
+			float: right;
+			width:400px;
+			margin: 0px 0px 10px 10px;
+			padding: 10px;
+			border-top: 2px solid #D1D1FF;
+			text-shadow:0 2px 1px;
+		}
+		ul{
+			color:#fff;
+			font-family:Chalkduster;
+			font-size: 36;
+			text-shadow: 0 2px 1px;
+			padding-left: 275px;
+
+		}
+		h3 {
+			color: rgb(24,24,24);
+			font-family:apple chancery;
+			font-size:30;
+		}
+		p {
+			color:#CC0000;
+			font-family:apple chancery;
+			font-size:24;
+		}
+		h4 {
+			color:#2E2EB8;
+			font-family:Chalkduster;
+			font-size:36;
+
+		}
+		h5 {
+			color:#fff;
+			font-family:Chalkduster;
+			font-size: 30;
+			padding-left: 275px;
+			text-shadow:0 2px 1px;
+			te
+		}
+
+		.channelimage{
+			height: 200px;
+			width:300px;
+			float: left;
+			padding-left:200px;
+			padding-bottom:100px;
+
+		}
+		.profilepic{
+			height: 300px;
+			width: 300px;
+			float: right;
+			padding-right:15px;
+
+		}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
